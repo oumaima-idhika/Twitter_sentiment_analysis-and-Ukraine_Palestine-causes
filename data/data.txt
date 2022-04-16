@@ -1,0 +1,3 @@
+-------------données utilisées en twitter sentiment analysis------------------
+
+https://www.kaggle.com/datasets/kazanova/sentiment140
